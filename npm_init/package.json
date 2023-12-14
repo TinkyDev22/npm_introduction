@@ -1,0 +1,24 @@
+{
+  "name": "npm_init",
+  "version": "1.0.0",
+  "description": "Introducción de NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node"
+  ],
+  "author": "Juan Martin Borrini",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  }
+}
